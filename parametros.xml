@@ -1,0 +1,7 @@
+<parametros>
+  <LOCALBANCO>localhost</LOCALBANCO>
+  <USUARIO>root</USUARIO>
+  <SENHA>linux</SENHA>
+  <NOMEBANCO>offcar</NOMEBANCO>
+  <PORTABANCO>3306</PORTABANCO>
+</parametros>
